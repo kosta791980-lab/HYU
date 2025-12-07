@@ -1,0 +1,6 @@
+body { font-family: Arial, sans-serif; margin: 20px; }
+header { text-align: center; margin-bottom: 20px; }
+nav button { margin: 5px; padding: 10px 15px; font-size: 16px; cursor: pointer; }
+table { width: 100%; border-collapse: collapse; margin: 20px 0; }
+th, td { padding: 6px; text-align: center; border: 1px solid #333; }
+img { max-width: 50px; }
